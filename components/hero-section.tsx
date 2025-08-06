@@ -169,9 +169,9 @@ export default function HeroSection() {
         <motion.div variants={itemVariants} className="flex justify-center space-x-4 sm:space-x-6">
           {[
             { icon: Github, href: "https://github.com/Ankit052003", label: "GitHub" },
-            { icon: Linkedin, href: "https://linkedin.com/in/ankit-kumar-501356301", label: "LinkedIn" },
+            { icon: Linkedin, href: "https://www.linkedin.com/in/ankit-kumar-501356301//", label: "LinkedIn" },
             { icon: Mail, href: "#contact", label: "Email" },
-            { icon: Twitter, href: "https://x.com/ANKITKUMAR21063?t=kn8wXH363ZoshJFl0CCJ5g&s=09", label: "Twitter" },
+            { icon: Twitter, href: "https://x.com/ANKIT052003?t=rhsf4xtBQ3iAJh_oxbuJtA&s=08", label: "Twitter" },
           ].map(({ icon: Icon, href, label }) => (
             <motion.a
               key={label}
