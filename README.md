@@ -2,8 +2,7 @@
 
 A modern, responsive, and animated developer portfolio built with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Showcases your skills, projects, certifications, and contact information with beautiful gradients, smooth animations, and a clean UI.
 
-[Infocity_Me](https://github.com/user-attachments/assets/75125e9b-7249-4375-b984-01b209cf9513)
--user.jpg)
+<img src="https://github.com/user-attachments/assets/75125e9b-7249-4375-b984-01b209cf9513" alt="Infocity Me" style="max-width: none;">
 
 
 ## 🚀 Features
